@@ -1,0 +1,10 @@
+{
+    "name": "symsonte/wip-security-encoder",
+    "autoload": {
+        "psr-4": {
+            "Symsonte\\": [
+                "src"
+            ]
+        }
+    }
+}
